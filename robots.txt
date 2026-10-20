@@ -1,0 +1,6 @@
+﻿# go away Googlebot
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /

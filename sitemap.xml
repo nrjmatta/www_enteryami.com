@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://www.enteryami.com/#home-section/</loc>
+      <lastmod>2022-05-19</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+	<url>
+      <loc>https://www.enteryami.com/#work-section/</loc>
+      <lastmod>2022-05-19</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+	<url>
+      <loc>https://www.enteryami.com/#services-section/</loc>
+      <lastmod>2022-05-19</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+	<url>
+      <loc>https://www.enteryami.com/#about-section/</loc>
+      <lastmod>2022-05-19</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+</urlset>

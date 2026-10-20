@@ -1,0 +1,26 @@
+﻿a {
+    color: #eb041e !important;
+}
+
+.text-primary {
+    color: #eb041e !important;
+}
+
+.ul-check.primary li:before {
+    color: #eb041e !important;
+}
+body {
+    font-size: 1.25rem !important;
+}
+
+.bg-primary {
+    background-color: #eb041e !important;
+}
+
+.btn-primary {
+    background-color: #eb041e !important;
+}
+
+.top-bar {
+    background-color:whitesmoke !important;
+}
